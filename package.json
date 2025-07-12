@@ -1,7 +1,7 @@
 {
-  "name": "kachabazar-admin",
+  "name": "Unibazar-admin",
   "version": "0.1.0",
-  "description": "this is Kachabazar-admin built with react.js and tailwindcss",
+  "description": "this is Unibazar-admin built with react.js and tailwindcss",
   "private": true,
   "type": "module",
   "dependencies": {
